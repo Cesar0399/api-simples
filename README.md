@@ -1,5 +1,5 @@
 # api-simples
-Uma API criada simples e introdutória, criada visando estudo.
+Uma API criada simples e introdutória, desenvolvida para fins de estudo.
 ## Endpoints da API
 
 ### Listar Livros
